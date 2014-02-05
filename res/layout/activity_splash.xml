@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:contentDescription="@string/image"
+        android:id="@+id/appIcon"
+        android:layout_width="130dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tvIntro1"
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:gravity="center"
+        android:padding="34dp"
+        android:text="@string/intro1"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/spinner"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/tvIntro2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:text="@string/intro2"
+        android:textSize="24sp" />
+
+</LinearLayout>

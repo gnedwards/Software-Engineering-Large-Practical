@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:background="@color/darkBlue" />
+
+    <TextView
+        android:id="@+id/tvCourseName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:background="@color/darkBlue" />
+
+    <TextView
+        android:id="@+id/tvVenue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" 
+        android:background="@color/darkBlue"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+         >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/white"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

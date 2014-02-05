@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/FiltersGen" 
+       	  android:title="@string/filters" />
+	<item android:id="@+id/SearchGen" 
+       	  android:title="@string/search" />
+	<item android:id="@+id/UserTable" 
+       	  android:title="@string/timetableUser" />
+</menu>

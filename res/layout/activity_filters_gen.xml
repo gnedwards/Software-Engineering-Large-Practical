@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FiltersUser" >
+
+    <TextView
+        android:id="@+id/tvFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"
+        android:paddingTop="5dp"
+        android:text="@string/filters"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/tvYearFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_alignTop="@+id/bYearFilter"
+        android:layout_marginLeft="19dp"
+        android:layout_toLeftOf="@+id/appIcon"
+        android:layout_toRightOf="@+id/bDegree"
+        android:background="@color/white"
+        android:scrollbars="vertical" />
+    
+   <TextView
+        android:id="@+id/tvDegreeFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvYearFilters"
+        android:layout_alignRight="@+id/tvYearFilters"
+        android:layout_alignTop="@+id/bDegree"
+        android:background="@color/white"
+        android:height="90dp"/>
+   
+    <TextView
+        android:id="@+id/tvCreditsFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_alignLeft="@+id/tvDegreeFilters"
+        android:layout_alignTop="@+id/bPoints"
+        android:layout_toLeftOf="@+id/appIcon"
+        android:background="@color/white"
+        android:height="90dp"
+        android:scrollbars="vertical"/>
+    
+    <TextView
+        android:id="@+id/tvLevelFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_alignLeft="@+id/tvCreditsFilters"
+        android:layout_alignTop="@+id/bLevel"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/appIcon"
+        android:background="@color/white"
+        android:scrollbars="vertical"/>
+
+    <ImageView
+        android:contentDescription="@string/image"
+        android:id="@+id/appIcon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_launcher" />
+    
+    <Button
+        android:id="@+id/bYearFilter"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bDegree"
+        android:layout_below="@+id/tvDialogTitle"
+        android:layout_marginTop="14dp"
+        android:text="@string/year" />
+
+    <Button
+        android:id="@+id/bDegree"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvYearFilters"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/degree" />
+
+    <Button
+        android:id="@+id/bLevel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bPoints"
+        android:layout_below="@+id/tvCreditsFilters"
+        android:text="@string/level" />
+    
+    <Button
+        android:id="@+id/bPoints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bDegree"
+        android:layout_below="@+id/tvDegreeFilters"
+        android:layout_marginTop="5dp"
+        android:text="@string/points" />
+
+    <TextView
+        android:id="@+id/addFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/appIcon"
+        android:layout_alignRight="@+id/bDegree"
+        android:text="@string/addFilters"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvDialogTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/appIcon"
+        android:layout_alignRight="@+id/tvYearFilters"
+        android:text="@string/currentFilters"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bClearFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvLevelFilters"
+        android:layout_alignParentBottom="true"
+        android:paddingTop="5dp"
+        android:text="@string/clearFilters"/>
+
+    <Button
+        android:id="@+id/bApplyFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/appIcon"
+        android:text="@string/apply"
+        android:textStyle="bold" />
+
+</RelativeLayout>

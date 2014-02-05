@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">edTimeTable</string>
+    <string name="intro1">Welcome to edTimetable</string>
+    <string name="intro2">Find out when and where your lectures are</string>
+    <string name = "filters">Filters</string>
+    <string name = "search">Search</string>
+    <string name = "submit">Submit</string>
+    <string name = "image">EdTimetable</string>
+    <string name = "selectAll">Select All</string>
+    <string name = "year">Year</string>
+    <string name = "degree">Degree</string>
+    <string name = "points">Points</string>
+    <string name = "addFilters">Add Filters:</string>
+    <string name = "edit">Edit</string>
+    <string name = "finish">Finish</string>
+    <string name = "clearFilters">Clear Filters</string>
+    <string name = "level">Level</string>
+    <string name = "currentFilters">Current Applied Filters:</string>
+    <string name = "apply">Apply</string>
+    <string name = "timetableGen">General Timetable</string>
+    <string name="timetableUser">Your Timetable</string>
+	<string name="courseDetails">Course Details</string>
+	<string name="lectures">Lectures</string>
+	<string name="mapUrl">Map URL</string>
+	<string name="comment">Comment</string>
+	
+	<color name="white">#FFFFFF</color>
+	<color name = "lightBlue">#B2FFFF</color>
+	<color name ="black">#FF000000</color>
+	<color name = "darkBlue">#091369</color>
+	
+	
+
+	
+</resources>

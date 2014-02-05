@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.selp.edtimetable"
+    android:versionCode="1"
+    android:versionName="1.0" 
+    >
+	
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="10" />
+	<uses-permission android:name="android.permission.INTERNET" /> 
+    <uses-permission android:name = "android.permission.ACCESS_NETWORK_STATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"        
+        android:theme="@style/AppTheme"
+        >
+        <activity
+            android:name="app.startup.Splash"
+            android:label="@string/app_name"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>  
+        <activity
+            android:name="user.timetable.SelectCourses" 
+            android:label="@string/app_name"
+           
+            android:screenOrientation="portrait"
+            >        
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.MAINACTIVITY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="user.timetable.TimetableUser"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.USERTIMETABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity
+            android:name="general.timetable.TimetableGen"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.GENERALTIMETABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+           <activity
+            android:name="user.timetable.FiltersUser"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.FILTERSUSER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+           <activity
+            android:name="general.timetable.FiltersGen"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.FILTERSGEN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity
+            android:name="user.timetable.SearchUser"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.SEARCHUSER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity
+            android:name="general.timetable.SearchGen"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.SEARCHGEN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity 
+           android:name=".ErrorDialog"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >           
+            <intent-filter>
+                <action android:name="com.selp.edtimetable.ERRORDIALOG" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+    </application>
+
+
+</manifest>

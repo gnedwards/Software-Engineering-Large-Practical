@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+   <semester number="1">
+      <week>
+         <day name="Monday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>DBS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IAR</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+			   <lecture>
+                  <course>GOR</course>
+                  <years>
+                     <year>3</year>
+					 <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DAPA</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR1</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RSS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>OS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>FRN</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RSS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>HCI</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT270</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IQC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>2.3</room>
+                     <building>22BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>CD</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TTS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>F.21</room>
+                     <building>7GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>COC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>2.3</room>
+                     <building>22BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IAML</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CP</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-FP</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>CDI1</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>DO4</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>LP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AGTA</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>PI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR5</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>EXC</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>HRB LT</room>
+                     <building>RB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00">
+               <lecture>
+                  <course>PI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DMMR</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+         </day>
+         <day name="Tuesday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>ANLP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>MLPR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>CG</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>HRB LT</room>
+                     <building>RB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CP</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT2</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-FP</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>PM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>CCS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>B1</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IT</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>APL</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IJP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LTA</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment>wks 1 &amp; 7 only</comment>
+               </lecture>
+               <lecture>
+                  <course>INF2C-CS</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>SEOC</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CN</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2A</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00">
+               <lecture>
+                  <course>CN</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2C-SE</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT175</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+         </day>
+         <day name="Wednesday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>AILP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>SR5</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ANLP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>AILP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>SR5</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SLIP</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>3.11</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>DMMR</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SLIP</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>3.11</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>SLIP</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>3.11</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SELP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>B1</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>IRR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment>wk 1 only</comment>
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00" />
+            <time start="16:10" finish="17:00" />
+            <time start="17:10" finish="18:00" />
+         </day>
+         <day name="Thursday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>DBS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IAR</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DAPA</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR1</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RSS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>OS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>FRN</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RSS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>HCI</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT270</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IQC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>2.3</room>
+                     <building>22BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-CL</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>CD</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TTS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>F.21</room>
+                     <building>7GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>COC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>2.3</room>
+                     <building>22 BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IAML</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>CDI1</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>DO4</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>LP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AGTA</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2C-SE</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LTB</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>PI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR5</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>EXC</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>HRB LT</room>
+                     <building>RB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2A</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LTC</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00">
+               <lecture>
+                  <course>PI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DMMR</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+         </day>
+         <day name="Friday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>ANLP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>MLPR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>CG</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>HRB LT</room>
+                     <building>RB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>CSLP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>PM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>BIO1</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.12</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CCS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>B1</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>IT</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-CL</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LTB</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>APL</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>BIO1</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.12</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2C-CS</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>SEOC</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2A</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00" />
+         </day>
+      </week>
+   </semester>
+   <semester number="2">
+      <week>
+         <day name="Monday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>NIP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G200 SR3</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SP</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>F.21</room>
+                     <building>7GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>CAR</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ABS</course>
+                  <years>
+                     <year>3</year>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>COPT</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RLSC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>IVR</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ADBS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CCN</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR2</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>LSI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>110</room>
+                     <building>24BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CA</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>DHR</room>
+                     <building>DSB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MASWS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT183</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CNV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>B9</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ES</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>CT</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LTA</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.05</room>
+                     <building>10BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-OP</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LTB</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>CMC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>S37</room>
+                     <building>7GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.05</room>
+                     <building>10BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ASR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>CS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>SR 2.14</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MT</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SSLT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00">
+               <lecture>
+                  <course>SAPM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G.07 Meadows LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+         </day>
+         <day name="Tuesday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>PPLS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>Meadows LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>PMR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>FNLP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TCM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>PA</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>TSPL</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NLU</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DMR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G.8 Gaddum LT</room>
+                     <building>1GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-DA</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT5</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>ST</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>FRN</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ALE1</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RL</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>COMN</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GFEH</room>
+                     <building>AH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MI</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.13</room>
+                     <building>GOI</building>
+                  </venue>
+                  <comment>Weeks 1-5</comment>
+               </lecture>
+               <lecture>
+                  <course>MI</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>163</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment>Weeks 6-11</comment>
+               </lecture>
+               <lecture>
+                  <course>RC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-CG</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>COMN</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GFEH</room>
+                     <building>AH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MI</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.13</room>
+                     <building>GOI</building>
+                  </venue>
+                  <comment>Weeks 1-5</comment>
+               </lecture>
+               <lecture>
+                  <course>MI</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>163</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment>Weeks 6-11</comment>
+               </lecture>
+               <lecture>
+                  <course>RC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2D</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>CAV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT2</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2B</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00" />
+         </day>
+         <day name="Wednesday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>DIE</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR1</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SDP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment>Wk 1 only</comment>
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>DIE</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR1</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>QSX</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>BIO2</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.12</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>QSX</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>BIO2</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.12</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>IRP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment>Wk 1 only</comment>
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00" />
+            <time start="16:10" finish="17:00" />
+            <time start="17:10" finish="18:00" />
+         </day>
+         <day name="Thursday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>NIP</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G200 SR3</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>SP</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>F.21</room>
+                     <building>7GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TDD</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>FRS</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>CAR</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ABS</course>
+                  <years>
+                     <year>3</year>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>COPT</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RLSC</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TDD</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>FRS</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>IVR</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ADBS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CCN</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SR2</room>
+                     <building>CMB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>LSI</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>110</room>
+                     <building>24BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CA</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>DHR</room>
+                     <building>DSB</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MASWS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT183</room>
+                     <building>OC</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>CNV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>B9</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ES</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>CT</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DS</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>AV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LTA</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.05</room>
+                     <building>10BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-CG</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>Teviot LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>CMC</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>2.07</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>2.05</room>
+                     <building>10BP</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ASR</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2D</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>CS</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>SR2.14</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>MT</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>SSLT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2B</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00">
+               <lecture>
+                  <course>SAPM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G.07 Meadows LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+         </day>
+         <day name="Friday">
+            <time start="09:00" finish="09:50">
+               <lecture>
+                  <course>PPLS</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>Meadows LT</room>
+                     <building>MST</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>PMR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="10:00" finish="10:50">
+               <lecture>
+                  <course>FNLP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>D.02</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>TCM</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>PA</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="11:10" finish="12:00">
+               <lecture>
+                  <course>SDP</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment>Wks 3 &amp; 6 only</comment>
+               </lecture>
+               <lecture>
+                  <course>TSPL</course>
+                  <years>
+                     <year>4</year>
+                  </years>
+                  <venue>
+                     <room>GA11</room>
+                     <building>FH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>NLU</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>DMR</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>G.8 Gaddum LT</room>
+                     <building>1GS</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="12:10" finish="13:00">
+               <lecture>
+                  <course>ST</course>
+                  <years>
+                     <year>3</year>
+                  </years>
+                  <venue>
+                     <room>FRN</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>ALE1</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LR1</room>
+                     <building>MH</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>RL</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT4</room>
+                     <building>7BSQ</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="14:10" finish="15:00">
+               <lecture>
+                  <course>DME</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-DA</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LTB</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="15:10" finish="16:00">
+               <lecture>
+                  <course>DME</course>
+                  <years>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>4.01</room>
+                     <building>DHT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF1-CG</course>
+                  <years>
+                     <year>1</year>
+                  </years>
+                  <venue>
+                     <room>LT2</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2D</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT3</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="16:10" finish="17:00">
+               <lecture>
+                  <course>CAV</course>
+                  <years>
+                     <year>4</year>
+                     <year>5</year>
+                  </years>
+                  <venue>
+                     <room>LT2</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+               <lecture>
+                  <course>INF2B</course>
+                  <years>
+                     <year>2</year>
+                  </years>
+                  <venue>
+                     <room>LT1</room>
+                     <building>AT</building>
+                  </venue>
+                  <comment />
+               </lecture>
+            </time>
+            <time start="17:10" finish="18:00" />
+         </day>
+      </week>
+   </semester>
+</timetable>

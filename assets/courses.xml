@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ale1</url>
+      <name>Adaptive Learning Environments 1</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11069.htm</drps>
+      <euclid>INFR11069</euclid>
+      <acronym>ALE1</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Alcorn</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/adbs</url>
+      <name>Advanced Databases</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11011.htm</drps>
+      <euclid>INFR11011</euclid>
+      <acronym>ADBS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>S Viglas</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/anlp</url>
+      <name>Advanced Natural Language Processing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11059.htm</drps>
+      <euclid>INFR11059</euclid>
+      <acronym>ANLP</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>P Koehn / J Moore</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/av</url>
+      <name>Advanced Vision</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11031.htm</drps>
+      <euclid>INFR11031</euclid>
+      <acronym>AV</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>R Fisher</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/abs</url>
+      <name>Agent Based Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10049.htm</drps>
+      <euclid>INFR10049</euclid>
+      <acronym>ABS</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Rovatsos</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ailp</url>
+      <name>AI Large Practical</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09018.htm</drps>
+      <euclid>INFR09018</euclid>
+      <acronym>AILP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>A Smaill</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/agta</url>
+      <name>Algorithmic Game Theory and its Applications</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11020.htm</drps>
+      <euclid>INFR11020</euclid>
+      <acronym>AGTA</acronym>
+      <ai>AI</ai>
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>K Etessami</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ar</url>
+      <name>Automated Reasoning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11074.htm</drps>
+      <euclid>INFR11074</euclid>
+      <acronym>AR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>J Fleuriot / P Jackson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/asr</url>
+      <name>Automatic Speech Recognition</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11033.htm</drps>
+      <euclid>INFR11033</euclid>
+      <acronym>ASR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>S Renals / H Shimodaira</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/bio1</url>
+      <name>Bioinformatics 1</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11016.htm</drps>
+      <euclid>INFR11016</euclid>
+      <acronym>BIO1</acronym>
+      <ai />
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>D Armstrong / M Hennig</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/bio2</url>
+      <name>Bioinformatics 2</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11005.htm</drps>
+      <euclid>INFR11005</euclid>
+      <acronym>BIO2</acronym>
+      <ai />
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Hennig / D Armstrong</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cdi1</url>
+      <name>Case Studies in Design Informatics 1</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11094.htm</drps>
+      <euclid>INFR11094</euclid>
+      <acronym>CDI1</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>J Oberlander</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/coc</url>
+      <name>Communication and Concurrency</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10007.htm</drps>
+      <euclid>INFR10007</euclid>
+      <acronym>COC</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>C Stirling</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/copt</url>
+      <name>Compiler Optimisation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11032.htm</drps>
+      <euclid>INFR11032</euclid>
+      <acronym>COPT</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M O'Boyle</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ct</url>
+      <name>Compiling Techniques</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09007.htm</drps>
+      <euclid>INFR09007</euclid>
+      <acronym>CT</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>B Franke</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ccn</url>
+      <name>Computational Cognitive Neuroscience</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11036.htm</drps>
+      <euclid>INFR11036</euclid>
+      <acronym>CCN</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>P Series</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ccs</url>
+      <name>Computational Cognitive Science</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09035.htm</drps>
+      <euclid>INFR09035</euclid>
+      <acronym>CCS</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>F Keller</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cmc</url>
+      <name>Computational Complexity</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10008.htm</drps>
+      <euclid>INFR10008</euclid>
+      <acronym>CMC</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>R Santhanam / I Diakonikolas</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cnv</url>
+      <name>Computational Neuroscience of Vision</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11037.htm</drps>
+      <euclid>INFR11037</euclid>
+      <acronym>CNV</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>J Bednar</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ca</url>
+      <name>Computer Algebra</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10009.htm</drps>
+      <euclid>INFR10009</euclid>
+      <acronym>CA</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>K Kalorkoti</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cav</url>
+      <name>Computer Animation and Visualisation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11067.htm</drps>
+      <euclid>INFR11067</euclid>
+      <acronym>CAV</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>T Komura</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/car</url>
+      <name>Computer Architecture</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09009.htm</drps>
+      <euclid>INFR09009</euclid>
+      <acronym>CAR</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>V Nagarajan / B Grot</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/comn</url>
+      <name>Computer Communications and Networks</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09027.htm</drps>
+      <euclid>INFR09027</euclid>
+      <acronym>COMN</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Marina / M Lee</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cd</url>
+      <name>Computer Design</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09010.htm</drps>
+      <euclid>INFR09010</euclid>
+      <acronym>CD</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>N Topham</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cg</url>
+      <name>Computer Graphics</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11021.htm</drps>
+      <euclid>INFR11021</euclid>
+      <acronym>CG</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>T Komura</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cn</url>
+      <name>Computer Networking</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11049.htm</drps>
+      <euclid>INFR11049</euclid>
+      <acronym>CN</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>M Marina</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cp</url>
+      <name>Computer Programming Skills and Concepts</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08022.htm</drps>
+      <euclid>INFR08022</euclid>
+      <acronym>CP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>1</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>J Bradfield / M Cryan</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cslp</url>
+      <name>Computer Science Large Practical</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09040.htm</drps>
+      <euclid>INFR09040</euclid>
+      <acronym>CSLP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>A Clark</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/cs</url>
+      <name>Computer Security</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09025.htm</drps>
+      <euclid>INFR09025</euclid>
+      <acronym>CS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>D Aspinall</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/die</url>
+      <name>Data Integration and Exchange</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11058.htm</drps>
+      <euclid>INFR11058</euclid>
+      <acronym>DIE</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>L Libkin</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dme</url>
+      <name>Data Mining and Exploration</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11007.htm</drps>
+      <euclid>INFR11007</euclid>
+      <acronym>DME</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Storkey</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dbs</url>
+      <name>Database Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09011.htm</drps>
+      <euclid>INFR09011</euclid>
+      <acronym>DBS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>L Libkin</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dmr</url>
+      <name>Decision Making in Robots and Autonomous Agents</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11090.htm</drps>
+      <euclid>INFR11090</euclid>
+      <acronym>DMR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>S Ramamoorthy</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dapa</url>
+      <name>Design and Analysis of Parallel Algorithms</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11028.htm</drps>
+      <euclid>INFR11028</euclid>
+      <acronym>DAPA</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>M Cole</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dip</url>
+      <name>Design Informatics Placement</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11096.htm</drps>
+      <euclid>INFR11096</euclid>
+      <acronym>DIP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>0</points>
+      <year>5</year>
+      <deliveryperiod>B5+</deliveryperiod>
+      <lecturer>J Oberlander</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/dmmr</url>
+      <name>Discrete Mathematics and Mathematical Reasoning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08023.htm</drps>
+      <euclid>INFR08023</euclid>
+      <acronym>DMMR</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>2</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>K Etessami / R Mayr</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ds</url>
+      <name>Distributed Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11022.htm</drps>
+      <euclid>INFR11022</euclid>
+      <acronym>DS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>R Sarkar / J Cheney</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/es</url>
+      <name>Embedded Software</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10013.htm</drps>
+      <euclid>INFR10013</euclid>
+      <acronym>ES</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M O'Boyle / B Franke</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/exc</url>
+      <name>Extreme Computing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11088.htm</drps>
+      <euclid>INFR11088</euclid>
+      <acronym>EXC</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>S Viglas</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/fnlp</url>
+      <name>Foundations of Natural Language Processing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09028.htm</drps>
+      <euclid>INFR09028</euclid>
+      <acronym>FNLP</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>H Thompson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/proj</url>
+      <name>Honours Project (Informatics)</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10044.htm</drps>
+      <euclid>INFR10044</euclid>
+      <acronym>PROJ</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>10</level>
+      <points>40</points>
+      <year>4</year>
+      <deliveryperiod>YR</deliveryperiod>
+      <lecturer>D Sannella</lecturer>
+   </course>
+   <course>
+      <url>http://www.facebook.com/gnedwards</url>
+      <name>Gordon's Course</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09028.htm</drps>
+      <euclid>INFR04934</euclid>
+      <acronym>GOR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>40</level>
+      <points>2</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>G Edwards</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/hci</url>
+      <name>Human-Computer Interaction</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11017.htm</drps>
+      <euclid>INFR11017</euclid>
+      <acronym>HCI</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se>SE</se>
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>D Arvind</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf1-cg</url>
+      <name>Informatics 1 - Cognitive Science</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08020.htm</drps>
+      <euclid>INFR08020</euclid>
+      <acronym>INF1-CG</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>1</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>R Shillcock / M Lapata</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf1-cl</url>
+      <name>Informatics 1 - Computation and Logic</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08012.htm</drps>
+      <euclid>INFR08012</euclid>
+      <acronym>INF1-CL</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>1</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>R Santhanam</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf1-da</url>
+      <name>Informatics 1 - Data and Analysis</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08015.htm</drps>
+      <euclid>INFR08015</euclid>
+      <acronym>INF1-DA</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>1</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>I Stark</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf1-fp</url>
+      <name>Informatics 1 - Functional Programming</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08013.htm</drps>
+      <euclid>INFR08013</euclid>
+      <acronym>INF1-FP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>1</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>D Sannella</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf1-op</url>
+      <name>Informatics 1 - Object-Oriented Programming</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08014.htm</drps>
+      <euclid>INFR08014</euclid>
+      <acronym>INF1-OP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>1</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>P Stevens</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf2a</url>
+      <name>Informatics 2A - Processing Formal and Natural Languages</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08008.htm</drps>
+      <euclid>INFR08008</euclid>
+      <acronym>INF2A</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>2</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>A Simpson / J Longley</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf2b</url>
+      <name>Informatics 2B - Algorithms, Data Structures, Learning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08009.htm</drps>
+      <euclid>INFR08009</euclid>
+      <acronym>INF2B</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>2</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>K Kalorkoti / H Shimodaira</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf2c-cs</url>
+      <name>Informatics 2C - Introduction to Computer Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08018.htm</drps>
+      <euclid>INFR08018</euclid>
+      <acronym>INF2C-CS</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>2</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>P Jackson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf2c-se</url>
+      <name>Informatics 2C - Introduction to Software Engineering</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08019.htm</drps>
+      <euclid>INFR08019</euclid>
+      <acronym>INF2C-SE</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>10</points>
+      <year>2</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>N Goddard</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/inf2d</url>
+      <name>Informatics 2D - Reasoning and Agents</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr08010.htm</drps>
+      <euclid>INFR08010</euclid>
+      <acronym>INF2D</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>8</level>
+      <points>20</points>
+      <year>2</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Lascarides / J Fleuriot</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/irp</url>
+      <name>Informatics Research Proposal</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11071.htm</drps>
+      <euclid>INFR11071</euclid>
+      <acronym>IRP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Van Rossum</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/irr</url>
+      <name>Informatics Research Review</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11034.htm</drps>
+      <euclid>INFR11034</euclid>
+      <acronym>IRR</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>M Van Rossum</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/it</url>
+      <name>Information Theory</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11087.htm</drps>
+      <euclid>INFR11087</euclid>
+      <acronym>IT</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>I Murray</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/iar</url>
+      <name>Intelligent Autonomous Robotics</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10005.htm</drps>
+      <euclid>INFR10005</euclid>
+      <acronym>IAR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>B Webb</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ijp</url>
+      <name>Introduction to Java Programming</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09021.htm</drps>
+      <euclid>INFR09021</euclid>
+      <acronym>IJP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>P Anderson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/iqc</url>
+      <name>Introduction to Quantum Computing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11099.htm</drps>
+      <euclid>INFR11099</euclid>
+      <acronym>IQC</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>E Kashefi</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ivr</url>
+      <name>Introduction to Vision and Robotics</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09019.htm</drps>
+      <euclid>INFR09019</euclid>
+      <acronym>IVR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Herrmann / B Boom</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/iaml</url>
+      <name>Introductory Applied Machine Learning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09029.htm</drps>
+      <euclid>INFR09029</euclid>
+      <acronym>IAML</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>N Goddard / V Lavrenko</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/lsi</url>
+      <name>Language Semantics and Implementation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09014.htm</drps>
+      <euclid>INFR09014</euclid>
+      <acronym>LSI</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>R Mayr / C Stirling</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/lp</url>
+      <name>Logic Programming</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09031.htm</drps>
+      <euclid>INFR09031</euclid>
+      <acronym>LP</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>A Smaill / A Simpson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/mlpr</url>
+      <name>Machine Learning and Pattern Recognition</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11073.htm</drps>
+      <euclid>INFR11073</euclid>
+      <acronym>MLPR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>C Sutton</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/mt</url>
+      <name>Machine Translation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11062.htm</drps>
+      <euclid>INFR11062</euclid>
+      <acronym>MT</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>B Haddow</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/mip1</url>
+      <name>MInf Project (Part 1)</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10051.htm</drps>
+      <euclid>INFR10051</euclid>
+      <acronym>MIP1</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>10</level>
+      <points>40</points>
+      <year>4</year>
+      <deliveryperiod>FLEX</deliveryperiod>
+      <lecturer>D Sannella</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/mpp2</url>
+      <name>MInf Project Phase 2</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11063.htm</drps>
+      <euclid>INFR11063</euclid>
+      <acronym>MPP2</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>60</points>
+      <year>5</year>
+      <deliveryperiod>FLEX</deliveryperiod>
+      <lecturer>K Kalorkoti</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/diss</url>
+      <name>MSc Dissertation (Informatics)</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11077.htm</drps>
+      <euclid>INFR11077</euclid>
+      <acronym>DISS</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>60</points>
+      <year>5</year>
+      <deliveryperiod>B5+</deliveryperiod>
+      <lecturer>J Hillston</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/rtn</url>
+      <name>MSc Research Thesis (Neuroinformatics)</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11043.htm</drps>
+      <euclid>INFR11043</euclid>
+      <acronym>RTN</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>80</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>Not Allocated</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/masws</url>
+      <name>Multi-agent Semantic Web Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11030.htm</drps>
+      <euclid>INFR11030</euclid>
+      <acronym>MASWS</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>D Robertson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/mi</url>
+      <name>Music Informatics</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11079.htm</drps>
+      <euclid>INFR11079</euclid>
+      <acronym>MI</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Smaill</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/nlu</url>
+      <name>Natural Language Understanding</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11061.htm</drps>
+      <euclid>INFR11061</euclid>
+      <acronym>NLU</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>F Keller / M Lapata</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/nc</url>
+      <name>Neural Computation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11008.htm</drps>
+      <euclid>INFR11008</euclid>
+      <acronym>NC</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>M Van Rossum</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/nip</url>
+      <name>Neural Information Processing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11035.htm</drps>
+      <euclid>INFR11035</euclid>
+      <acronym>NIP</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Van Rossum / C Williams</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/nr</url>
+      <name>Neuroinformatics Research</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11042.htm</drps>
+      <euclid>INFR11042</euclid>
+      <acronym>NR</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Hennig</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/os</url>
+      <name>Operating Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09015.htm</drps>
+      <euclid>INFR09015</euclid>
+      <acronym>OS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>J Bradfield</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/pa</url>
+      <name>Parallel Architectures</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11024.htm</drps>
+      <euclid>INFR11024</euclid>
+      <acronym>PA</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>V Nagarajan</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/ppls</url>
+      <name>Parallel Programming Languages and Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11023.htm</drps>
+      <euclid>INFR11023</euclid>
+      <acronym>PPLS</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Cole</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/pm</url>
+      <name>Performance Modelling</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11082.htm</drps>
+      <euclid>INFR11082</euclid>
+      <acronym>PM</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se>SE</se>
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>J Hillston</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/pon</url>
+      <name>Principles of Neuroscience</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11048.htm</drps>
+      <euclid>INFR11048</euclid>
+      <acronym>PON</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>40</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>P Series</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/pmr</url>
+      <name>Probabilistic Modelling and Reasoning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11050.htm</drps>
+      <euclid>INFR11050</euclid>
+      <acronym>PMR</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Storkey</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/pi</url>
+      <name>Professional Issues</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10022.htm</drps>
+      <euclid>INFR10022</euclid>
+      <acronym>PI</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>S Anderson / P Wadler</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/qsx</url>
+      <name>Querying and Storing XML</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10017.htm</drps>
+      <euclid>INFR10017</euclid>
+      <acronym>QSX</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>W Fan</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/rc</url>
+      <name>Randomness and Computation</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11089.htm</drps>
+      <euclid>INFR11089</euclid>
+      <acronym>RC</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>I Diakonikolas</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/rl</url>
+      <name>Reinforcement Learning</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11010.htm</drps>
+      <euclid>INFR11010</euclid>
+      <acronym>RL</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>M Herrmann</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/rlsc</url>
+      <name>Robot Learning and Sensorimotor Control</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11091.htm</drps>
+      <euclid>INFR11091</euclid>
+      <acronym>RLSC</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>S Vijayakumar</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/rss</url>
+      <name>Robotics: Science and Systems</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11092.htm</drps>
+      <euclid>INFR11092</euclid>
+      <acronym>RSS</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>11</level>
+      <points>20</points>
+      <year>5</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>S Ramamoorthy / S Vijayakumar / B Boom</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/sp</url>
+      <name>Secure Programming</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11098.htm</drps>
+      <euclid>INFR11098</euclid>
+      <acronym>SP</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se>SE</se>
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>D Aspinall / M Arapinis</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/sapm</url>
+      <name>Software Architecture, Process, and Management</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11038.htm</drps>
+      <euclid>INFR11038</euclid>
+      <acronym>SAPM</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se>SE</se>
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>A Clark</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/selp</url>
+      <name>Software Engineering Large Practical</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09039.htm</drps>
+      <euclid>INFR09039</euclid>
+      <acronym>SELP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>S Gilmore</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/seoc</url>
+      <name>Software Engineering with Objects and Components</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09016.htm</drps>
+      <euclid>INFR09016</euclid>
+      <acronym>SEOC</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se>SE</se>
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>P Stevens</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/st</url>
+      <name>Software Testing</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09024.htm</drps>
+      <euclid>INFR09024</euclid>
+      <acronym>ST</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se>SE</se>
+      <level>9</level>
+      <points>10</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>S Anderson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/sdp</url>
+      <name>System Design Project</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr09032.htm</drps>
+      <euclid>INFR09032</euclid>
+      <acronym>SDP</acronym>
+      <ai />
+      <cg />
+      <cs />
+      <se />
+      <level>9</level>
+      <points>20</points>
+      <year>3</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>H Thompson</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/slip</url>
+      <name>System Level Integration Practical</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10042.htm</drps>
+      <euclid>INFR10042</euclid>
+      <acronym>SLIP</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>D Arvind</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/tts</url>
+      <name>Text Technologies</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11027.htm</drps>
+      <euclid>INFR11027</euclid>
+      <acronym>TTS</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S1</deliveryperiod>
+      <lecturer>V Lavrenko</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/tcm</url>
+      <name>Topics in Cognitive Modelling</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11086.htm</drps>
+      <euclid>INFR11086</euclid>
+      <acronym>TCM</acronym>
+      <ai>AI</ai>
+      <cg>CG</cg>
+      <cs />
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>J Lee / C Lucas</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/tdd</url>
+      <name>Topics in Distributed Databases</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr11025.htm</drps>
+      <euclid>INFR11025</euclid>
+      <acronym>TDD</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>11</level>
+      <points>10</points>
+      <year>5</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>W Fan</lecturer>
+   </course>
+   <course>
+      <url>http://www.inf.ed.ac.uk/teaching/courses/tspl</url>
+      <name>Types and Semantics for Programming Languages</name>
+      <drps>http://www.drps.ed.ac.uk/13-14/dpt/cxinfr10040.htm</drps>
+      <euclid>INFR10040</euclid>
+      <acronym>TSPL</acronym>
+      <ai />
+      <cg />
+      <cs>CS</cs>
+      <se />
+      <level>10</level>
+      <points>10</points>
+      <year>4</year>
+      <deliveryperiod>S2</deliveryperiod>
+      <lecturer>P Wadler</lecturer>
+   </course>
+</list>

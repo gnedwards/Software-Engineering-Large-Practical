@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <EditText
+        android:hint="@string/search"
+        android:id="@+id/etSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:visibility="visible" >
+
+        <requestFocus />
+    </EditText>
+
+    <ListView
+        android:id="@+id/lvSelectedCourses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/etSearch"
+        android:background="@color/white"
+        android:focusable="false"
+        android:focusableInTouchMode="false" 
+        android:scrollingCache="false"
+        android:fastScrollEnabled="true">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/bFinishSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lvSelectedCourses"
+        android:layout_alignRight="@+id/lvSelectedCourses"
+        android:text="@string/finish" />
+
+</RelativeLayout>

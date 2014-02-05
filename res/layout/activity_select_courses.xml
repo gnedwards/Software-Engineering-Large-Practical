@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutSelectCourses"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".SelectCourses" >
+
+    <ListView
+        android:id="@+id/lvSelectedCourses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spSelectSem"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:scrollingCache="false"
+        android:focusableInTouchMode="false" 
+        android:fastScrollEnabled="true">
+    </ListView>
+
+    <TextView
+        android:id="@+id/tvSelectedCourses"
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:layout_alignLeft="@+id/lvSelectedCourses"
+        android:layout_toLeftOf="@+id/bSubmitChoices"
+        android:background="@color/white"
+        android:scrollbars="vertical"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvSelectAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/selectAll"
+        android:layout_alignBottom="@+id/selectAll"
+        android:layout_toLeftOf="@+id/selectAll"
+        android:text="@string/selectAll"
+        android:textColor="@color/black" />
+
+    <Spinner
+        android:id="@+id/spSelectSem"
+        android:layout_width="135dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvSelectAll"
+        android:layout_alignTop="@+id/selectAll" />
+
+    <Button
+        android:id="@+id/bSubmitChoices"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvSelectedCourses"
+        android:layout_alignRight="@+id/lvSelectedCourses"
+        android:text="@string/submit"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/selectAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/lvSelectedCourses"
+        android:layout_below="@+id/bSubmitChoices" />
+
+    <ImageView
+        android:contentDescription="@+string/image"
+        android:id="@+id/appIcon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/bSubmitChoices"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_launcher" />
+
+</RelativeLayout>

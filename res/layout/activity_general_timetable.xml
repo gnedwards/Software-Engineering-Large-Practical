@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/appIcon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/expandableListViewCoursesGen"
+        android:contentDescription="@string/image"
+        android:src="@drawable/ic_launcher" />
+
+    <Spinner
+        android:id="@+id/spSelectSemGen"
+        android:layout_width="135dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/expandableListViewCoursesGen"
+        android:layout_alignParentTop="true" />
+
+    <ExpandableListView
+        android:id="@+id/expandableListViewCoursesGen"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvTimetableTitle"
+        android:layout_margin="10dp"
+        android:autoLink="web"
+        android:scrollingCache="false"
+        android:clickable="true"
+        android:fastScrollEnabled="true"
+        android:visibility="visible" >
+
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/tvTimetableTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spSelectSemGen"
+        android:layout_below="@+id/appIcon"
+        android:text="@string/timetableGen"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+</RelativeLayout>
